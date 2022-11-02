@@ -3,12 +3,12 @@ Push Notifications using Firebase in list and navigator to details of notificati
 
 In this video tutorial, you will learn how to set up and connect an application with the Firebase cloud database in order to push notifications via Firebase messages: The application consists of a screen that contains a list of received notifications and when you click on the notification, it moves to another screen to display the notification details
 
-Video tutorial:
+# Video tutorial:
 
 https://youtu.be/SyjQXzVgsWw
 
-if you want source code :
-please subscribe in my channel and contact me with my email :
+# if you want source code :
+please subscribe in my channel and send me the link of video to my Email:
 brhomapps@gmail.com
 
 
